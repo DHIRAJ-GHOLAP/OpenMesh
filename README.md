@@ -12,7 +12,7 @@ Today, communication depends on telecom providers, infrastructure, and monthly s
 
 OpenMesh challenges that idea.
 
-Our goal is to build a free, decentralized communication network where every participant helps strengthen the network.
+Our goal is to build a **free** , decentralized communication network where every participant helps strengthen the network.
 
 No corporation owns it.
 
