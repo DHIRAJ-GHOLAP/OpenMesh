@@ -1,132 +1,62 @@
+# 📡 Project OpenMesh
 
-#📡 Project OpenMesh
+> *The Internet belongs to everyone.*
 
-«Free communication. Owned by the people.»
-
-OpenMesh is an open-source initiative to build a decentralized, community-owned communication network that continues to function even when traditional internet or mobile networks are unavailable.
-
-Our mission is simple:
-
-«Communication should be available to everyone, regardless of income or internet access.»
+> **A decentralized, community-owned network that keeps people connected, even when the Internet disappears.**
 
 ---
 
-🌍 Vision
+## Why?
 
-Imagine a city where every home, school, business, and public building can contribute to a community network.
+Today, communication depends on telecom providers, infrastructure, and monthly subscriptions.
 
-No telecom towers.
+OpenMesh challenges that idea.
 
-No monthly bills.
+Our goal is to build a free, decentralized communication network where every participant helps strengthen the network.
 
-No single company controlling communication.
+No corporation owns it.
 
-Every new node strengthens the network for everyone.
+No single point of failure.
 
----
+No mandatory monthly fees.
 
-🚀 Features (Planned)
-
-- 📡 Long-range LoRa mesh networking
-- 💬 Offline encrypted messaging
-- 📁 File sharing
-- 📍 Offline maps
-- 🚨 Emergency broadcast system
-- 🏘️ Community notice board
-- 🤖 Local AI assistant
-- 🌐 Local websites and services
-- 🔋 Low-power infrastructure
-- 🔓 Fully open source
+Just people helping people stay connected.
 
 ---
 
-🛠️ Technology Stack
+## Imagine...
 
-- Raspberry Pi
-- LoRa (SX1262 / SX1276)
-- Python
-- FastAPI
-- Flutter (Android/iOS)
-- Mesh routing protocols
-- SQLite / PostgreSQL
-- Linux
+A natural disaster disables mobile towers.
 
----
+Internet services go offline.
 
-🗺️ Roadmap
+Power is limited.
 
-Phase 1
+Yet...
 
-- Build two LoRa nodes
-- Secure text messaging
-- Raspberry Pi gateway
-- Android application
+You open OpenMesh.
 
-Phase 2
+## 📡 Connected
+Messages ✓ Emergency Alerts ✓ Maps ✓ Community Board ✓ AI Assistant ✓
+Internet ❌ OpenMesh ✅
 
-- Multi-node mesh routing
-- File transfer
-- Offline maps
-- Network diagnostics
 
-Phase 3
+Communication continues.
 
-- Community deployment across Ambarnath
-- Rooftop relay nodes
-- Public access points
-- Local services
-
-Phase 4
-
-- AI-powered local assistant
-- Voice communication
-- Community web portal
-- Emergency response tools
-
-Phase 5
-
-- Expand to nearby cities
-- Open-source deployment guides
-- Global community contributors
+Because the network belongs to the community.
 
 ---
 
-🎯 Goals
+# 🌍 Vision
 
-OpenMesh aims to provide:
+To create the world's largest open, community-powered communication network.
 
-- Free local communication
-- Reliable emergency networking
-- Community-owned infrastructure
-- Privacy-first networking
-- Learning and innovation in decentralized systems
+Starting with one neighborhood.
 
----
+Then one city.
 
-🤝 Contributing
+Then one country.
 
-OpenMesh welcomes developers, hardware enthusiasts, network engineers, makers, students, and researchers.
+Eventually... anywhere people believe communication should be free.
 
-Whether you write code, design hardware, improve documentation, or test deployments, every contribution helps strengthen the network.
-
----
-
-📜 License
-
-This project will be released under the MIT License.
-
----
-
-⚠️ Disclaimer
-
-OpenMesh is intended to comply with applicable laws and radio regulations. Contributors are responsible for operating hardware within the legal limits of their country and using approved frequencies and transmission power.
-
----
-
-💡 Motto
-
-"When the internet fails, the people don't."
-
-Project OpenMesh
-
-Free communication. Owned by the people.
+⚠️ *OpenMesh is an experimental research project. It is not intended to replace licensed telecom infrastructure or provide unrestricted access to the global Internet. The project's goal is to create a resilient, community-owned communication network and local services.*
